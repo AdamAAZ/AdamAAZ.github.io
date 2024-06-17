@@ -10,6 +10,7 @@ falvourImage.onclick = function () {
     }
 }
 
+/*
 let myButton = document.querySelector("button");
 let myHeading = document.querySelector("h2");
 
@@ -34,4 +35,4 @@ if (!localStorage.getItem("name")) {
 myButton.onclick = () => {
     setUserName();
 }
-  
+*/
