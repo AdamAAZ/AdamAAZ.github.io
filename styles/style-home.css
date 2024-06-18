@@ -44,9 +44,3 @@ button {
   right: 10px;
   z-index: 1000;
 }
-
-.home-icon {
-  position: absolute;
-  top: 0;
-  left: 0;
-}
