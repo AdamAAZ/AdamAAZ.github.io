@@ -1,4 +1,4 @@
-const falvourImage = document.querySelector("img");
+/*const falvourImage = document.querySelector("img");
 
 falvourImage.onclick = function () {
     const flavourSrc = falvourImage.getAttribute("src");
@@ -10,7 +10,6 @@ falvourImage.onclick = function () {
     }
 }
 
-/*
 let myButton = document.querySelector("button");
 let myHeading = document.querySelector("h2");
 
