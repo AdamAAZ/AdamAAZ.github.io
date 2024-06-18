@@ -38,7 +38,7 @@ li {
   color: rgb(34, 217, 34);
 }
 
-button {
+.sign-in-button {
   position: fixed;
   top: 10px;
   right: 10px;
